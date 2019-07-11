@@ -30,6 +30,8 @@ Just like the previous homework, connect this Github repo's `master` branch to N
 
 When you are done, [add a status badge](https://www.netlify.com/docs/continuous-deployment/#status-badges) below. Note that you may commit directly on `master` for this since it is such a tiny change.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f855d4ca-a37c-4580-a6ac-7054d28903b4/deploy-status)](https://app.netlify.com/sites/hw3-ismail-ahmadi/deploys)
+
 ### 2. Implement the Checkout Feature
 
 Your fix for the unclickable Pay button last week did not make your boss happy. Instead, he wants your team to build a prototype of the checkout feature.
